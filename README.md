@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
-- 💬 Ask me about **UI/UX, Figma,HTML, CSS, JavaScript, C++, C#**
+- 💬 Ask me about **UI/UX, Figma,HTML, CSS, JavaScript, Php, C++, C#**
 
 - 📫 How to reach me **johnrhanzeleb@gmail.com**
 
