@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hellorhanzel" target="blank"><img src="https://img.shields.io/twitter/follow/hellorhanzel?logo=twitter&style=for-the-badge" alt="hellorhanzel" /></a> </p>
 
-- 🔭 I’m currently working on **Tools**
+- 🔭 I’m currently working on **Passion Projects**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
