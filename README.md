@@ -12,6 +12,12 @@
   <a href="https://www.behance.net/johnrhanzel">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
+  <a href="https://www.instagram.com/hellorhanzel">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@hellorhanzel">
+    <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm John Rhanzel</h1>
