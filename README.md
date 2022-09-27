@@ -52,7 +52,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnrhanzel&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrhanzel&show_icons=true&locale=en" alt="johnrhanzel" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrhanzel&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?johnrhanzel&layout=compact&theme=vision-friendly-dark)](https://github.com/johnrhanzel/github-readme-stats)
 
