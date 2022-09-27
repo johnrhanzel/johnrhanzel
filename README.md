@@ -18,8 +18,8 @@
   <a href="https://www.tiktok.com/@hellorhanzel">
     <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
-  <br>
-   <img src="https://komarev.com/ghpvc/?johnrhanzel&style=flat-square&color=blue" alt="GitHub Views"/>
+  
+  <img src="https://komarev.com/ghpvc/?johnrhanzel&style=flat-square&color=blue" alt="GitHub Views"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm John Rhanzel</h1>
