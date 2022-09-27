@@ -27,8 +27,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">A passionate UI/UX Designer and Software Developer from Philippines</h3>
-
+- A passionate UI/UX Designer and Software Developer from Philippines
 - 🔭 I’m currently working on **Passion Projects**
 
 - 🌱 I’m currently learning **Backend Development**
