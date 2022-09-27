@@ -54,5 +54,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrhanzel&layout=compact&theme=vision-friendly-dark)](https://github.com/johnrhanzel/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrhanzel&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrhanzel&show_icons=true&theme=vision-friendly-dark)
 
