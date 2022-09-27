@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
-- 👩‍💻 UI/UX Designer and Software Developer from Philippines
+- 👩‍💻  **Full Stack Designer* from Philippines
 - 🔭 I’m currently working on **Passion Projects**
 
 - 🌱 I’m currently learning **Backend Development**
