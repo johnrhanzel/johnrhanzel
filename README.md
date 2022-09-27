@@ -9,7 +9,7 @@
   <a href="https://twitter.com/hellorhanzel">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/johnrhanzelebora">
+  <a href="https://www.behance.net/johnrhanzel">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
