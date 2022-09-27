@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
   
-  <img src="https://komarev.com/ghpvc/?johnrhanzel&style=flat-square&color=blue" alt="GitHub Views"/>
+  <img src="https://komarev.com/ghpvc/?username=johnrhanzel&label=Profile%20views&color=0e75b6&style=flat" alt="johnrhanzel" />
 </div>
 
 <h1 align="center">Hi 👋, I'm John Rhanzel</h1>
