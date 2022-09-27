@@ -54,5 +54,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnrhanzel&show_icons=true&locale=en" alt="johnrhanzel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnrhanzel&" alt="johnrhanzel" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?johnrhanzel&layout=compact&theme=vision-friendly-dark)](https://github.com/johnrhanzel/github-readme-stats)
 
