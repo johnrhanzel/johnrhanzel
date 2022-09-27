@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/code-404-javascript-Lny6Rw04nsOOc" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm John Rhanzel</h1>
 <h3 align="center">A passionate UI/UX Designer and Software Developer from Philippines</h3>
 
