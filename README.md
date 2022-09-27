@@ -30,7 +30,7 @@
 
 * 👩‍💻 **Full Stack Designer** from Philippines
 
-* 🔭 I’m currently working on **Passion Projects**
+* 🔭 I’m currently working on **Palubayan: Capstone Project**
 
 - 🌱 I’m currently learning **Backend Development**
 
