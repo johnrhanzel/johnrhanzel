@@ -36,7 +36,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **UI/UX, Figma, HTML, CSS, JavaScript, PHP, C++, Python, Go, Linux**
+- 💬 Ask me about **UI/UX, Figma, Adobe XD, HTML, CSS, JavaScript, PHP, C++, Python, Go, Linux**
 
 - 📫 How to reach me **johnrhanzeleb@gmail.com**
 
