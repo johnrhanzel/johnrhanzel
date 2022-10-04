@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **Backend Development using Golang**
 
-- 👯 I’m looking to collaborate on **Open-source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **UI/UX, Figma, HTML, CSS, JavaScript, PHP, C++, Python, Go, Linux**
 
