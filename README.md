@@ -32,7 +32,7 @@
 
 * 🔭 I’m currently working on **Palubayan: Capstone Project**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development using Golang**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
