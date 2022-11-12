@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **any projects**
 
 - 💬 Ask me about **UI/UX, Figma, Adobe XD, HTML, CSS, JavaScript, PHP, C#, .NET, C++, Python, Go, Linux**
 
