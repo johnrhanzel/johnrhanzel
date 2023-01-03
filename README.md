@@ -25,7 +25,7 @@
 <h1 align="center">Hi👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="300"/>
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="500"/>
 </div>
 
 * 👩‍💻 **Full-stack Designer** from Philippines
