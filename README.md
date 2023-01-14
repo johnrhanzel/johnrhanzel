@@ -32,7 +32,7 @@
 
 * 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **3D Animation**
+- 🌱 I’m currently learning **3D Design**
 
 - 👯 I’m looking to collaborate on **any projects**
 
