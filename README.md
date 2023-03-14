@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="500"/>
 </div>
 
-* 👩‍💻 **Full-stack Developer x Data Scienctist** from Philippines
+* 👩‍💻 **Full-stack Developer x Data Scientist** from Philippines
 
 * 🔭 I’m currently working on **Personal Project**
 
