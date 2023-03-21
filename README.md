@@ -28,15 +28,15 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="500"/>
 </div>
 
-* 👩‍💻 **Networking x Full-stack Developer** from Philippines
+* 👩‍💻 **SOC Analyst x Networking** from Philippines
 
 * 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Quasar and Axios**
+- 🌱 I’m currently learning **SOC Tools**
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 💬 Ask me about **Programming or UI/UX Design**
+- 💬 Ask me about **Cybersecurity, Networking, Programming or UI/UX Design**
 
 
 <h3 align="left">Languages and Tools:</h3>
