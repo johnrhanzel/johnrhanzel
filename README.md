@@ -15,9 +15,6 @@
   <a href="https://www.instagram.com/hellorhanzel">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.tiktok.com/@hellorhanzel">
-    <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
-  </a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnrhanzel&label=Profile%20views&color=0e75b6&style=flat" alt="johnrhanzel" /> </p>
