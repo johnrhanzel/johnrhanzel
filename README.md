@@ -25,11 +25,11 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="500"/>
 </div>
 
-* 👩‍💻 **SOC Analyst x Networking** from Philippines
+* 👩‍💻 **IT Engineer** from Philippines
 
 * 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **SOC Tools**
+- 🌱 I’m currently learning **System Administration**
 
 - 👯 I’m looking to collaborate on **any projects**
 
